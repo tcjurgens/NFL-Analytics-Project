@@ -1,0 +1,20 @@
+CREATE TABLE cleaned_data (
+game_id VARCHAR(50),
+season int,
+week int,
+home_team VARCHAR(10), 
+home_qb_name VARCHAR(50),
+home_off_epa FLOAT(20),
+away_team VARCHAR(10),
+away_qb_name VARCHAR(20),
+away_off_epa FLOAT(20),
+def_epa_home FLOAT(20),
+def_pass_epa_home FLOAT(20),
+def_rush_epa_home FLOAT(20),
+def_epa_away FLOAT(20),
+def_pass_epa_away FLOAT(20),
+def_rush_epa_away FLOAT(20),
+PRIMARY KEY(game_id)
+);
+
+SELECT * FROM cleaned_data;
