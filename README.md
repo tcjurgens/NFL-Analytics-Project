@@ -1,5 +1,7 @@
 # NFL-Analytics-Project
  https://docs.google.com/presentation/d/19o92-zsXxRSFqBiG3-xcNCJ2kHJG6umbqGl1eXOmWGE/edit
+ 
+ Use "index.html" within Dashboard Stuff/dist/index.html to produce dashboard/website render.
 
 
 ## to Henry: 
